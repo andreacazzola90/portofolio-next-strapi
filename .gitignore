@@ -170,3 +170,9 @@ $RECYCLE.BIN/
 # Custom
 
 .vscode
+
+backend/package-lock.json
+
+frontend/package-lock.json
+
+backend/yarn.lock
